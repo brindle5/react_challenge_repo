@@ -10,6 +10,7 @@ function App() {
     <div className={css.App}>
       <Sidebar />
       <NavBarForm />
+      <Content />
     </div>
   );
 }
